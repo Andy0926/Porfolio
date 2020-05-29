@@ -15,8 +15,13 @@
 ![alt text](https://raw.githubusercontent.com/Andy0926/Porfolio/master/Security%20Door.jpg)
 
 ##Self Employ
-![alt text](https://github.com/Andy0926/Porfolio/blob/master/Self%20Employ.jpg)
+![alt text](https://raw.githubusercontent.com/Andy0926/Porfolio/master/Self%20Employ.jpg)
 
 ##Workbench
-![alt text](https://github.com/Andy0926/Porfolio/blob/master/Workbench.jpg)
+![alt text](https://raw.githubusercontent.com/Andy0926/Porfolio/master/Workbench.jpg)
 
+##Learning Reverse Engineer
+![alt text](https://raw.githubusercontent.com/Andy0926/Porfolio/master/Tools.jpg)
+
+##Tools which I bring along to provide computer service
+![alt text](https://github.com/Andy0926/Porfolio/blob/master/Tools.jpg)
